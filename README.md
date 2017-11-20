@@ -4,7 +4,7 @@
 
   Main branch
 
-* SSR python  https://github.com/shadowsocksr-rm/shadowsocksr
+* SSR  python  https://github.com/shadowsocksr-rm/shadowsocksr
 
 * SSR android https://github.com/shadowsocksr-rm/shadowsocksr-android
 
