@@ -1,5 +1,7 @@
 # ShadowsocksR project backup
 
+自用
+
 ## 各项目fork链接
 
   Main branch
